@@ -1,13 +1,14 @@
 ### Olá! Eu sou o Samuel Vieira
 
-Desenvolvedor de Software com experiência em ERP Sankhya, SQL Server e análise de dados. Apaixonado por tecnologia e otimização de processos, atuo na criação de soluções eficientes para transformar dados em decisões estratégicas. Sempre em busca de novos desafios e aprendizado contínuo.
+Sou Desenvolvedor de Software Pleno, especializado em backend Java, SQL Server, Data Warehouse, integrações e ERP Sankhya.
 
-Atualmente:
-- Desenvolvendo melhorias no ERP Sankhya, implementando novas regras de negócio e telas para diversos departamentos.  
-- Trabalhando com ETL (SSIS) na criação de Data Warehouse.  
-- Extraindo e tratando dados para dashboards no Power BI, Grafana e ERP Sankhya.  
-- Aplicando metodologias ágeis (SCRUM) nos processos de desenvolvimento.  
-- Programando em SQL Server e Java.  
+Atuo no desenvolvimento de soluções robustas para otimização de processos, integrações de sistemas e tratamento de grandes volumes de dados. Tenho experiência em ETL (SSIS), criação de data warehouses, construção de integrações via APIs e customizações no ERP Sankhya.
+
+Desde 2022, cresci dentro da Constance Calçados, sendo promovido em diferentes áreas até chegar ao cargo atual de Pleno, sempre com foco em tecnologia e melhoria contínua.
+
+Em 2025 iniciei minha Pós-graduação em Engenharia de Software na PUC Minas, ampliando meus conhecimentos em boas práticas de desenvolvimento, qualidade de código e metodologias modernas. Sou formado em Análise e Desenvolvimento de Sistemas (Estácio) e atuo com metodologia ágil SCRUM no dia a dia.
+
+Meu propósito é unir engenharia de software e dados para entregar soluções escaláveis e de impacto para o negócio.
 
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>

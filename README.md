@@ -1,4 +1,4 @@
-### Olá! Eu sou o Samuel Vieira
+### Olá! Meu nome é Samuel Vieira
 
 Sou Desenvolvedor de Software Pleno, especializado em backend Java, SQL Server, Data Warehouse, integrações e ERP Sankhya.
 
